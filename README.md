@@ -1,7 +1,7 @@
 ### Hi there... I'm Prabhaharan K S 👋
 
 -🔭 I’m currently graduating Bachelor of Engineering.
-- 🌱 I’m currently learning java.
+- 🌱 I’m currently learning JAVA.
 - 👯 I’m looking to collaborate on Internships.
 - 💬 Ask me about Java and OOPs
 - 📫 How to reach me: https://github.com/Prabhaharanks
